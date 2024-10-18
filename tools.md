@@ -34,6 +34,9 @@
       2. `电脑端`
            - `github地址:`[musicfree-desktop](https://github.com/maotoumao/MusicFreeDesktop)
            - `download:` [x64](https://www.ghproxy.cc/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-legacy-portable.zip) [x32](https://www.ghproxy.cc/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-portable.zip)
+  4. website:
+      - [YouTube music](https://music.youtube.com)
+      - [Spotify](https://open.spotify.com)
   > `lx-music:`源地址  __**在lx-music的电脑端的根文件内创建一个`portable`的文件夹，可以把软件使用的数据存储到当前的文件夹内部**__
   > 1. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/wuming.js
   > 2. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/sixyinapi.js
