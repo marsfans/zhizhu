@@ -14,6 +14,7 @@
       - [低端影视](https://ddys.pro/)
       - [在线之家](https://www.zxzjhd.com/)
       - [哔嘀影视](https://www.bdys.me/)
+      - [netflixgc](https://netflixgc.com)
   >  `tv-box`的数据源和视频源
   >  1. `饭太硬：`https://xn--sss604efuw.com/
   >  2. `肥猫：`https://xn--z7x900a.com/
