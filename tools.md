@@ -34,23 +34,22 @@
       2. `电脑端`
            - `github地址:`[musicfree-desktop](https://github.com/maotoumao/MusicFreeDesktop)
            - `download:` [x64](https://www.ghproxy.cc/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-legacy-portable.zip) [x32](https://www.ghproxy.cc/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-portable.zip)
-> `lx-music:`源地址
-> 1. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/wuming.js
-> 2. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/sixyinapi.js
-> 3. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/ikun.js
-> 4. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/grass.js
-> 5. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/flower.js
-> 6. https://fastly.jsdelivr.net/gh/laosunmaker/New_lxmusic_source@main/sixyin-music-source-v1.0.7.js
-> 7. https://fastly.jsdelivr.net/gh/ctsfork/web@main/src/music/lxmusic/local/lx-music-source-local.js
-> 8. https://fastly.jsdelivr.net/gh/ctsfork/web@main/src/music/lxmusic/local/lx-music-source-nya.js
-> 9. https://a.dongs.v6.rocks:7777/d/public/freeVIP/lx-music/musicsource_freelisten_v1.1.1.js
-> 10. http://110.42.38.239:1314/script
-> 11. https://fastly.jsdelivr.net/gh/Huibq/keep-alive@master/render_api.js
-> 12. https://fastly.jsdelivr.net/lyswhut/lx-music-source@master/dist/lx-music-source.js
-
-> `musicfree`源
-> 1. 
->
->
->
+  > `lx-music:`源地址  __**在lx-music的电脑端的根文件内创建一个`portable`的文件夹，可以把软件使用的数据存储到当前的文件夹内部**__
+  > 1. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/wuming.js
+  > 2. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/sixyinapi.js
+  > 3. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/ikun.js
+  > 4. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/grass.js
+  > 5. https://fastly.jsdelivr.net/gh/hwxlikemi/lxs@main/flower.js
+  > 6. https://fastly.jsdelivr.net/gh/laosunmaker/New_lxmusic_source@main/sixyin-music-source-v1.0.7.js
+  > 7. https://fastly.jsdelivr.net/gh/ctsfork/web@main/src/music/lxmusic/local/lx-music-source-local.js
+  > 8. https://fastly.jsdelivr.net/gh/ctsfork/web@main/src/music/lxmusic/local/lx-music-source-nya.js
+  > 9. https://a.dongs.v6.rocks:7777/d/public/freeVIP/lx-music/musicsource_freelisten_v1.1.1.js
+  > 10. http://110.42.38.239:1314/script
+  > 11. https://fastly.jsdelivr.net/gh/Huibq/keep-alive@master/render_api.js
+  > 12. https://fastly.jsdelivr.net/lyswhut/lx-music-source@master/dist/lx-music-source.js
+  > 13. https://cdn.jsdelivr.net/gh/Huibq/keep-alive@master/render_api.js
+  
+  > `musicfree`源
+  > 1. https://cdn.jsdelivr.net/gh/Huibq/keep-alive@master/Music_Free/myPlugins.json
+  > 2. https://musicfreepluginshub.2020818.xyz/plugins.json
             
