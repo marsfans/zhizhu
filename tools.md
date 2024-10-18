@@ -35,7 +35,15 @@
       2. `电脑端`
            - `github地址:`[musicfree-desktop](https://github.com/maotoumao/MusicFreeDesktop)
            - `download:` [x64](https://www.ghproxy.cc/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-legacy-portable.zip) [x32](https://www.ghproxy.cc/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-portable.zip)
-  4. website:
+  4. CyMusic
+      - `github地址:` [cymusic](https://github.com/gyc-12/music-player-master)
+      - `download:` [ipa](https://ghproxy.cc/https://github.com/gyc-12/music-player-master/releases/download/1.1.2/cymusic-1.1.2.ipa)
+      > __**只支持iOS平台**__
+  5. rhyme
+      - `github地址:` [rhyme](https://github.com/canxin121/app_rhyme/releases/tag/v1.0.9)
+      - `download:` [ipa](https://ghproxy.cc/https://github.com/gyc-12/music-player-master/releases/download/1.1.2/cymusic-1.1.2.ipa)
+      > __**支持全平台**__
+  6. website:
       - [YouTube music](https://music.youtube.com)
       - [Spotify](https://open.spotify.com)
   > `lx-music:`源地址  __**在lx-music的电脑端的根文件内创建一个`portable`的文件夹，可以把软件使用的数据存储到当前的文件夹内部**__
