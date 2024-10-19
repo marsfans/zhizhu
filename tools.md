@@ -66,19 +66,19 @@
   > 2. https://musicfreepluginshub.2020818.xyz/plugins.json
 ## proxy tools
   1. clashmeta for android
-      - `githubd地址`[cfa](https://github.com/MetaCubeX/ClashMetaForAndroid)
+      - `github地址`[cfa](https://github.com/MetaCubeX/ClashMetaForAndroid)
       - `download:`[arm64](https://ghproxy.cc/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-arm64-v8a-release.apk)<br>[arm32](https://ghproxy.cc/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.1/cmfa-2.11.1-meta-armeabi-v7a-release.apk)
   3. flclash
-      - `githubd地址`[flclash](https://github.com/chen08209/FlClash)
+      - `github地址`[flclash](https://github.com/chen08209/FlClash)
       - `download:`__**在项目的release中提供下载包**__
   4. sing-box
-      - `githubd地址`[sing-box](https://github.com/SagerNet/sing-box)
+      - `github地址`[sing-box](https://github.com/SagerNet/sing-box)
       - `download:`__**在项目的release中提供下载包**__
   5. xrayn
-      - `githubd地址`[](https://github.com/2dust/v2rayN)
+      - `githubd地址`[v2rayn](https://github.com/2dust/v2rayN)
       - `download:`__**在项目的release中提供下载包以及项目主页提供使用方法说明**__
   6. v2rayng
-      - `githubd地址`[v2rayng](https://github.com/2dust/v2rayNG)
+      - `github地址`[v2rayng](https://github.com/2dust/v2rayNG)
       - `download:`[arm64](https://ghproxy.cc/https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_arm64-v8a.apk)<br>[arm32](https://ghproxy.cc/https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_armeabi-v7a.apk)
         
             
