@@ -11,7 +11,7 @@
       - `download:`[arm64](https://www.ghproxy.cc/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-arm64-generic.apk) [arm32](https://www.ghproxy.cc/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-armeabi-generic.apk)
   4. tv-box(fongmi版)
       - `github地址:`[fongmi](https://github.com/FongMi/TV)
-      - `download:`[手机64位](https://fastly.jsdelivr.net/gh/FongMi/Release@main/apk/release/mobile-java-arm64_v8a.apk) [tv64](https://fastly.jsdelivr.net/gh/FongMi/Release@main/apk/release/leanback-java-arm64_v8a.apk)
+      - `download:`[手机64位](https://ghp.ci/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk) [tv64](https://ghp.ci/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk)
   6. BBLL(b站原生Android TV客户端，支持Android TV)
        - `github地址:`[BBLL](https://github.com/xiaye13579/BBLL)
        - `download:` [arm64/arm32](https://www.ghproxy.cn/https://github.com/xiaye13579/BBLL/releases/download/v1.5.0/BBLL1.5.0.apk)
@@ -24,10 +24,10 @@
       - [哔嘀影视](https://www.bdys.me/)
       - [netflixgc](https://netflixgc.com)
   >  `tv-box`的数据源和视频源
-  >  1. `饭太硬：`https://xn--sss604efuw.com/
-  >  2. `肥猫：`https://xn--z7x900a.com/
-  >  3. `王小二：`https://www.xn--4kq62z5rby2qupq9ub.top/
-  >  4. `南风：`https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
+  >  1. `饭太硬：` https://xn--sss604efuw.com/tv
+  >  2. `肥猫：` http://like.肥猫.com/你好
+  >  3. `王小二：` http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/
+  >  4. `南风：` https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
 ## music
   1. 落雪音乐
       1. `移动端`
@@ -39,7 +39,7 @@
   3. musicfree
       1. `移动端`
            - `github地址:`[MusicFree-mobile](https://github.com/maotoumao/MusicFree)
-           - `download:`[arm64](https://cf.ghproxy.cc/https://github.com/maotoumao/MusicFree/releases/download/latest/app-arm64-v8a-release.apk) [arm32](https://cf.ghproxy.cc/https://github.com/maotoumao/MusicFree/releases/download/latest/app-armeabi-v7a-release.apk)
+           - `download:`[arm64](https://cf.ghproxy.cc/https://github.com/maotoumao/MusicFree/releases/download/v0.4.2/app-arm64-v8a-release.apk) [arm32](https://cf.ghproxy.cc/https://github.com/maotoumao/MusicFree/releases/download/v0.4.2/app-armeabi-v7a-release.apk)
       2. `电脑端`
            - `github地址:`[musicfree-desktop](https://github.com/maotoumao/MusicFreeDesktop)
            - `download:` [x64](https://www.ghproxy.cc/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-legacy-portable.zip) [x32](https://www.ghproxy.cc/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.5/MusicFree-0.0.5-win32-x64-portable.zip)
@@ -48,7 +48,7 @@
       - `download:` [ipa](https://ghproxy.cc/https://github.com/gyc-12/music-player-master/releases/download/1.1.2/cymusic-1.1.2.ipa)
       > __**只支持iOS平台**__
   5. rhyme
-      - `github地址:` [rhyme](https://github.com/canxin121/app_rhyme/releases/tag/v1.0.9)
+      - `github地址:` [rhyme](https://github.com/canxin121/app_rhyme)
       - `download:` [ipa](https://ghproxy.cc/https://github.com/gyc-12/music-player-master/releases/download/1.1.2/cymusic-1.1.2.ipa)
       > __**支持全平台**__
   6. Less-Player
