@@ -55,6 +55,38 @@
        - `github地址:`[Less-Player](https://github.com/GeekLee2012/Less-Player-Desktop)
        - `download:` [x64](https://cf.ghproxy.cc/https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.28/Less.Player.v0.1.28.win-x64.zip) [x32](https://cf.ghproxy.cc/https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.28/Less.Player.v0.1.28.win-ia32.zip)
          > 使用方法参考这个：`https://github.com/GeekLee2012/Less-Player-Desktop-Plugins`
+  7. PlanetMusicPlayer(只支持widnows 10以上系统，使用winUI 2绘制的本地原生音乐播放器)
+       - `官网地址:` [PlanetMusicPlayer](https://pigeonming.top/index.php/planetmusicplayer)
+       - `github地址:` [PlanetMusicPlayer](https://github.com/Pigeon-Ming/CorePlanetMusicPlayer)
+       - `download：` **安装包在项目的说明中**
+  9. 香草音乐(只支持Android,一个美观的原生音乐播放器,使用material you UI绘制)
+       - `官网地址：` [vanilla](https://vanilla.surge.sh/)
+       - `download:`  **官网提供安装包**
+  10. 椒盐音乐(Android比较优秀的音乐播放器，界面的设计比较的美观)
+       - `官网地址:`[salt player](https://moriafly.com/salt-player/index.html)
+       - `download:` **官网提供安装包**
+       - **官网还提供了其他的工具** -> https://moriafly.com
+  11. yesplayer(支持桌面端所有平台)
+       - `github项目：`[yesplayer](https://github.com/qier222/YesPlayMusic)
+       - `download:` [x64](https://ghproxy.cc/https://github.com/qier222/YesPlayMusic/releases/download/v0.4.8-2/YesPlayMusic.0.4.8.exe)
+  12. hyplayer(只支持windows 10以上系统，原生的widnows UI原生的网易云音乐第三方客户端)
+       - `github项目:` [hyplayer](https://github.com/HyPlayer/HyPlayer)
+       - `download:` [all](https://cf.ghproxy.cc/https://github.com/HyPlayer/HyPlayer/releases/download/2.1.37.5872/HyPlayer_2.1.37.5872_x64_ARM64.msixbundle)
+  13. hyplayer(只支持windows 10以上系统，原生的widnows UI原生的网易云音乐第三方客户端)
+       - `github项目:` [hyplayer](https://github.com/HyPlayer/HyPlayer)
+       - `download:` [all](https://cf.ghproxy.cc/https://github.com/HyPlayer/HyPlayer/releases/download/2.1.37.5872/HyPlayer_2.1.37.5872_x64_ARM64.msixbundle)
+  14. LyricEase(只支持windows 10以上系统，原生的widnows UI原生的网易云音乐第三方客户端)
+       - `github项目:` [LyricEase](https://github.com/daiyuzhanghua/LyricEase)
+       - `download:` [all](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
+  15. NonsPlayer(只支持windows 10以上系统，原生的widnows UI原生的网易云音乐第三方客户端)
+       - `github地址：` [NonsPlayer](https://github.com/Miaoyww/NonsPlayer)
+       - `download：` [x64](https://www.ghproxy.cc/https://github.com/Miaoyww/NonsPlayer/releases/download/0.5.6/NonsPlayer_0.5.6_x64.7z)  [arm64](https://www.ghproxy.cc/https://github.com/Miaoyww/NonsPlayer/releases/download/0.5.6/NonsPlayer_0.5.6_arm64.7z)
+  16. Gramophone(只支持Android,一个美观的原生音乐播放器,使用material you UI绘制)
+       - `github项目：`[Gramophone](https://github.com/AkaneTan/Gramophone)
+       - `download：` [all](https://cf.ghproxy.cc/https://github.com/AkaneTan/Gramophone/releases/download/1.0.14/Gramophone-1.0.14-release.apk)
+  17. lmusic(只支持Android,一个美观的原生音乐播放器)
+       - `github项目：` [lmusic](https://github.com/cy745/LMusic)
+       - `download:` [all](https://cf.ghproxy.cc/https://github.com/cy745/LMusic/releases/download/Beta/LMusic_beta_1.5.4_42_20230603_2240+0800.apk)
   7. website:
       - [YouTube music](https://music.youtube.com)
       - [Spotify](https://open.spotify.com)
@@ -92,5 +124,8 @@
   6. v2rayng
       - `github地址`[v2rayng](https://github.com/2dust/v2rayNG)
       - `download:`[arm64](https://ghproxy.cc/https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_arm64-v8a.apk)<br>[arm32](https://ghproxy.cc/https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_armeabi-v7a.apk)
+  7. clashyou(只支持Android,一个美观的原生cfa的material you风格的proxy客户端,使用material you UI绘制)
+      - `github地址：` [clashyou](https://github.com/Yos-X/ClashYou)
+      - `download:` [arm64](https://ghproxy.net/https://github.com/Yos-X/ClashYou/releases/download/V0.1.1/clash-you-0.1.1-yosx-foss-arm64-v8a-release.apk) [arm32](https://ghproxy.net/https://github.com/Yos-X/ClashYou/releases/download/V0.1.1/clash-you-0.1.1-yosx-foss-armeabi-v7a-release.apk) 
         
             
