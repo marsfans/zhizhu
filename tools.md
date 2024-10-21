@@ -2,15 +2,23 @@
 ## video
   1. uz影视
       - `github地址:` [uz影视](https://github.com/YYDS678/uzVideo)
+      - `download:` __**项目首页有使用说明和下载包**__
   2. my-tv
       - `github地址:` [my-tv](https://github.com/lizongying/my-tv-0)
+      - `download:` __**项目首页有使用说明和下载包**__
   3. tv-box
       - `github地址:`[tv-box](https://github.com/o0HalfLife0o/TVBoxOSC)
       - `download:`[arm64](https://www.ghproxy.cc/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-arm64-generic.apk) [arm32](https://www.ghproxy.cc/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-armeabi-generic.apk)
   4. tv-box(fongmi版)
       - `github地址:`[fongmi](https://github.com/FongMi/TV)
       - `download:`[手机64位](https://fastly.jsdelivr.net/gh/FongMi/Release@main/apk/release/mobile-java-arm64_v8a.apk) [tv64](https://fastly.jsdelivr.net/gh/FongMi/Release@main/apk/release/leanback-java-arm64_v8a.apk)
-  5. web
+  6. BBLL(b站原生Android TV客户端，支持Android TV)
+       - `github地址:`[BBLL](https://github.com/xiaye13579/BBLL)
+       - `download:` [arm64/arm32](https://www.ghproxy.cn/https://github.com/xiaye13579/BBLL/releases/download/v1.5.0/BBLL1.5.0.apk)
+  7. ACAC(A站原生Android TV客户端，支持Android TV)
+       - `github地址:`[ACAC]([https://github.com/xiaye13579/BBLL](https://github.com/xiaye13579/ACAC))
+       - `download:` [arm64/arm32](https://gh-proxy.com/https://github.com/xiaye13579/ACAC/releases/download/v1.0.3/ACAC_release_v1.0.3.apk) 
+  8. web
       - [低端影视](https://ddys.pro/)
       - [在线之家](https://www.zxzjhd.com/)
       - [哔嘀影视](https://www.bdys.me/)
