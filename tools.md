@@ -43,7 +43,11 @@
       - `github地址:` [rhyme](https://github.com/canxin121/app_rhyme/releases/tag/v1.0.9)
       - `download:` [ipa](https://ghproxy.cc/https://github.com/gyc-12/music-player-master/releases/download/1.1.2/cymusic-1.1.2.ipa)
       > __**支持全平台**__
-  6. website:
+  6. Less-Player
+       - `github地址:`[Less-Player](https://github.com/GeekLee2012/Less-Player-Desktop)
+       - `download:` [x64](https://cf.ghproxy.cc/https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.28/Less.Player.v0.1.28.win-x64.zip) [x32](https://cf.ghproxy.cc/https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.28/Less.Player.v0.1.28.win-ia32.zip)
+         > 使用方法参考这个：`https://github.com/GeekLee2012/Less-Player-Desktop-Plugins`
+  7. website:
       - [YouTube music](https://music.youtube.com)
       - [Spotify](https://open.spotify.com)
   > `lx-music:`源地址  __**在lx-music的电脑端的根文件内创建一个`portable`的文件夹，可以把软件使用的数据存储到当前的文件夹内部**__
