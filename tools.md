@@ -17,7 +17,10 @@
        - `download:` [arm64/arm32](https://www.ghproxy.cn/https://github.com/xiaye13579/BBLL/releases/download/v1.5.0/BBLL1.5.0.apk)
   7. ACAC(A站原生Android TV客户端，支持Android TV)
        - `github地址:`[ACAC]([https://github.com/xiaye13579/BBLL](https://github.com/xiaye13579/ACAC))
-       - `download:` [arm64/arm32](https://gh-proxy.com/https://github.com/xiaye13579/ACAC/releases/download/v1.0.3/ACAC_release_v1.0.3.apk) 
+       - `download:` [arm64/arm32](https://gh-proxy.com/https://github.com/xiaye13579/ACAC/releases/download/v1.0.3/ACAC_release_v1.0.3.apk)
+  8. ZyPlayer(支持导入多个vod源的视频播放器)
+      - `GitHub地址：`[ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)
+      - `download:` [x64](https://ghproxy.cc/https://github.com/Hiram-Wong/ZyPlayer/releases/download/v3.3.7/zyplayer-win-3.3.7-x64.exe) [x32](https://ghproxy.cc/https://github.com/Hiram-Wong/ZyPlayer/releases/download/v3.3.7/zyplayer-win-3.3.7-ia32.exe)
   8. web
       - [低端影视](https://ddys.pro/)
       - [在线之家](https://www.zxzjhd.com/)
