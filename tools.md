@@ -129,6 +129,14 @@
       - `download:`[arm64](https://ghproxy.cc/https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_arm64-v8a.apk)<br>[arm32](https://ghproxy.cc/https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_armeabi-v7a.apk)
   7. clashyou(只支持Android,一个美观的原生cfa的material you风格的proxy客户端,使用material you UI绘制)
       - `github地址：` [clashyou](https://github.com/Yos-X/ClashYou)
-      - `download:` [arm64](https://ghproxy.net/https://github.com/Yos-X/ClashYou/releases/download/V0.1.1/clash-you-0.1.1-yosx-foss-arm64-v8a-release.apk) [arm32](https://ghproxy.net/https://github.com/Yos-X/ClashYou/releases/download/V0.1.1/clash-you-0.1.1-yosx-foss-armeabi-v7a-release.apk) 
+      - `download:` [arm64](https://ghproxy.net/https://github.com/Yos-X/ClashYou/releases/download/V0.1.1/clash-you-0.1.1-yosx-foss-arm64-v8a-release.apk) [arm32](https://ghproxy.net/https://github.com/Yos-X/ClashYou/releases/download/V0.1.1/clash-you-0.1.1-yosx-foss-armeabi-v7a-release.apk)
+## 阅读
+  1. anx reader
+      - `github地址：` [anx](https://github.com/Anxcye/anx-reader)
+      -  `download:` [arm64](https://gh-proxy.com/https://github.com/Anxcye/anx-reader/releases/download/v1.1.7/Anx-Reader-v1.1.7-arm64-v8a.apk) [arm32](https://gh-proxy.com/https://github.com/Anxcye/anx-reader/releases/download/v1.1.7/Anx-Reader-v1.1.7-armeabi-v7a.apk)
+  2. 花火阅读
+      - `download:` [huahuo](https://www.123pan.com/s/XIqA-hKGX)
+  3. 厚墨
+      - `download:` [houmo](https://share.codecho.cc/houmo/houmo-1.3.0.apk)      
         
             
