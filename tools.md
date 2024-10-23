@@ -21,7 +21,10 @@
   8. ZyPlayer(支持导入多个vod源的视频播放器)
       - `GitHub地址：`[ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)
       - `download:` [x64](https://ghproxy.cc/https://github.com/Hiram-Wong/ZyPlayer/releases/download/v3.3.7/zyplayer-win-3.3.7-x64.exe) [x32](https://ghproxy.cc/https://github.com/Hiram-Wong/ZyPlayer/releases/download/v3.3.7/zyplayer-win-3.3.7-ia32.exe)
-  8. web
+  9. 哔哩(一个原生的b站widnows 10+客户端)
+       -  `github地址：` [bili](https://github.com/Richasy/Bili.Copilot)
+       -  `download:` [x64](https://www.ghproxy.cc/https://github.com/Richasy/Bili.Copilot/releases/download/v2.2410.8.0/BiliCopilot_2.2410.8.0_x64.7z)
+  10. web
       - [低端影视](https://ddys.pro/)
       - [在线之家](https://www.zxzjhd.com/)
       - [哔嘀影视](https://www.bdys.me/)
